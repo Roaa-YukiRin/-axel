@@ -7,3 +7,7 @@
 ### الـ median (الوسيط)،
 ### الـ std (الانحراف المعياري)،
 ### والـ variance (التباين).
+
+# الحل:
+## https://youtu.be/sT8c2L4XHVs
+![bandicam 2025-09-07 23-13-56-252](https://github.com/user-attachments/assets/f2977c8d-902a-4aac-8332-d9f8dfa8fb9f)
